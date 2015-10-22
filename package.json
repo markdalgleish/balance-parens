@@ -1,6 +1,6 @@
 {
   "name": "balance-parens",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Balance a string of parentheses",
   "main": "lib/index.js",
   "scripts": {
